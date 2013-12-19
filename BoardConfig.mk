@@ -49,6 +49,7 @@ BOARD_NO_ALLOW_DEQUEUE_CURRENT_BUFFER := true
 BOARD_USE_SKIA_LCDTEXT := true
 BOARD_EGL_CFG := device/lge/p880/configs/egl.cfg
 USE_OPENGL_RENDERER := true
+BOARD_HAVE_PIXEL_FORMAT_INFO := true
 
 # Wifi related defines
 WPA_SUPPLICANT_VERSION      := VER_0_8_X
