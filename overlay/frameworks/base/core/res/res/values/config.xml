@@ -187,4 +187,8 @@
     <!-- Device supports LED flashlight -->
     <bool name="config_enableTorch">true</bool>
 
+    <bool name="config_intrusiveNotificationLed">true</bool>
+
+    <bool name="config_intrusiveBatteryLed">true</bool>
+
 </resources>
